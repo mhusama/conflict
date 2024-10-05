@@ -1,1 +1,2 @@
 # conflict
+text from B
